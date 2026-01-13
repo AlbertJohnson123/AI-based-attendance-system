@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Large AI model files
+*.dat
+*.h5
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
