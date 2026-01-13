@@ -11,4 +11,10 @@ https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_land
 
 ### 📂 How to Place the File
 After downloading, place the file in the following path:
+AI-based-attendance-system/shape_predictor_68_face_landmarks.dat
+
+
+> ⚠️ The application will not run correctly unless this file is downloaded and placed in the correct directory.
+
+
 
