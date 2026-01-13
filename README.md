@@ -1,34 +1,14 @@
-# AI-Based Attendance System 🎓📸
+## 📥 Required Model File (Not Included in Repository)
 
-An AI-powered attendance system that uses face recognition to automatically mark attendance in real time.
+This project requires the pre-trained file:
 
----
+shape_predictor_68_face_landmarks.dat
 
-## 📌 Problem Statement
-Traditional attendance systems are time-consuming, prone to proxy attendance, and require manual effort. This project automates attendance marking using AI-based face recognition, improving accuracy and efficiency.
+Due to GitHub file size limitations, this file is **not included** in the repository.
 
----
+### 🔗 Download Link
+https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat
 
-## 🚀 Features
-- Real-time face recognition using webcam
-- Automatic attendance marking
-- Unknown face detection and logging
-- Streamlit-based interactive dashboard
-- Attendance stored in CSV format
-- Admin control panel
-
----
-
-## 🛠️ Tech Stack
-- Python
-- OpenCV
-- face_recognition
-- dlib
-- Streamlit
-- Pandas
-
----
-
-
-
+### 📂 How to Place the File
+After downloading, place the file in the following path:
 
