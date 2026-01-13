@@ -29,6 +29,6 @@ Traditional attendance systems are time-consuming, prone to proxy attendance, an
 
 ---
 
-## 📂 Project Structure
+
 
 
